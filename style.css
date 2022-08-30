@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Monserrat";
+  }
+
+  body {
+    color: var(--text-secondary);
+    background: rgb(49, 49, 49, .5) url(./img/forest.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: darken;
+    background-attachment: fixed;
+    color: black;
+  }
+
+  .javascript-section{
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+    height: fit-content;
+    width: 100%;
+}
+
+
+.container{
+    background-color: rgba(255, 255, 255, .4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+    width: 40rem;
+    border-radius: 20px;
+    margin: 20px 10px;
+}
+.contents{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    gap: 10px;
+}
+.main-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    width: 30rem;
+    gap: 10px;
+}
+button{
+    padding: 10px;
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.blue{
+    background-color: rgb(3, 3, 153);
+}
+.yellow{
+    background-color: rgb(141, 156, 1);
+}
+.green{
+    background-color: rgb(10, 109, 2);
+}
+.red{
+    background-color: rgb(158, 3, 3);
+}
+.contents .title{
+    font-size: 3rem;
+}
+.contents .counter{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+    gap: 10px;
+}
