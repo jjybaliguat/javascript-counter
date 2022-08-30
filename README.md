@@ -8,5 +8,5 @@ Simple javascript Counter
 cd Desktop
 ```
 ```
-git clone 
+git clone https://github.com/jjybaliguat/javascript-counter.git
 ```
