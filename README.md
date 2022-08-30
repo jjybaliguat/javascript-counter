@@ -11,3 +11,5 @@ cd Desktop
 ```
 git clone https://github.com/jjybaliguat/javascript-counter.git
 ```
+## opening the file
+* Double Click the folder in your desktop named javascript-counter and double click index.html
