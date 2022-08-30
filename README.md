@@ -3,8 +3,8 @@ Simple javascript Counter
 
 ## Clone the Repository
 *open gitbash
-*if you don't have a git bash download here https://git-scm.com/
-*run the following command 
+**if you don't have a git bash download here https://git-scm.com/
+**run the following command 
 ```
 cd Desktop
 ```
