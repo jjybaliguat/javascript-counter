@@ -15,4 +15,4 @@ git clone https://github.com/jjybaliguat/javascript-counter.git
 * Double Click the folder in your desktop named javascript-counter and double click index.html
 
 ## Result
-![javascript-counter-demo](img/demo.png)
+![javascript-counter-demo](https://user-images.githubusercontent.com/94623035/187390045-d75a969e-b964-4a1a-afeb-651325d408d0.png)
