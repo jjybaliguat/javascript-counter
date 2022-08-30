@@ -3,7 +3,10 @@ Simple javascript Counter
 
 ## Clone the Repository
 *open gitbash
-*run the command 
+*run the following command 
 ```
-"cd Desktop"
+cd Desktop
+```
+```
+git clone 
 ```
