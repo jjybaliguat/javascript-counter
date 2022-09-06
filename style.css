@@ -6,7 +6,6 @@
   }
 
   body {
-    color: var(--text-secondary);
     background: rgb(49, 49, 49, .5) url(./img/forest.jpg);
     background-repeat: no-repeat;
     background-size: cover;
